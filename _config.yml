@@ -99,7 +99,7 @@ cdn:
 avatar:
 enabled: true
 src: /assets/img/avatar.jpg
-alt: "Your potrait photo"
+alt: Your potrait photo
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
