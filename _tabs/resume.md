@@ -2,8 +2,9 @@
 layout: page
 title: Resume
 icon: fas fa-user-tie
-order: 2
+order: 3
 ---
+
 ## 🧾 Resume
 
 Here’s a brief overview of my *academic background, **professional experience, **certifications, and **skills*.
