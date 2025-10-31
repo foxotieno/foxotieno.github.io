@@ -9,7 +9,7 @@ order: 4
 ### 1. Rhojan Textiles ♻
 *Description:* A sustainability-driven business that creates textiles from waste materials — transforming them into clothes, bags, and home accessories. I worked as the graphic designer and web designer for this particular project.
 *Tech Stack:* HTML, CSS, Tailwind, JavaScript  
-*GitHub Repo:* [github.com/yourusername/rhojan](https://github.com/exzayveer/rhojan)
+*GitHub Repo:* [github.com/yourusername/rhojan](https://github.com/exzayveer)
 
 ---
 
@@ -23,4 +23,4 @@ order: 4
 ### 3. Data Analytics Dashboard 📊
 *Description:* A Python and Power BI dashboard visualizing logistics data trends for MotorSpeed Courier.  
 *Tech Stack:* Python (Pandas, Matplotlib), Power BI  
-*GitHub Repo:* [github.com/yourusername/logistics-dashboard](https://github.com/exzayveer/logistics-dashboard)
+*GitHub Repo:* [github.com/yourusername/logistics-dashboard](https://github.com/exzayveer)
