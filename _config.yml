@@ -27,13 +27,14 @@ url: "https://foxotieno.github.io"
 github:
   username: foxotieno # change to your GitHub username
 
-linkedin: xavier-franklin-okidi # change to your Twitter username
+# change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Xavier Franklin Okidi
   email: xavierfranklinok@gmail.com # change to your email address
+  linkedin: "https://www.linkedin.com/in/xavier-franklin-okidi/"
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/exzayveer # change to your Twitter homepage
