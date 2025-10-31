@@ -2,7 +2,7 @@
 layout: page
 title: Lab Challenges
 icon: fas fa-flask
-order: 4
+order: 5
 ---
 ## 🧩 Cybersecurity Lab Challenges
 
