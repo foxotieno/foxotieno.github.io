@@ -26,7 +26,8 @@ url: "https://foxotieno.github.io"
 
 github:
   username: foxotieno # change to your GitHub username
-
+linkedin:
+username: Xavier Franklin
 # change to your Twitter username
 
 social:
@@ -34,14 +35,14 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Xavier Franklin Okidi
   email: xavierfranklinok@gmail.com # change to your email address
-  linkedin: "https://www.linkedin.com/in/xavier-franklin-okidi/"
+  
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/exzayveer # change to your Twitter homepage
+    - https://www.linkedin.com/in/xavier-franklin-okidi # change to your Twitter homepage
     - https://github.com/foxotieno # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/xavier-franklin-okidi
+    
 
 # Site Verification Settings
 webmaster_verifications:
