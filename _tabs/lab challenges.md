@@ -61,5 +61,3 @@ The *Ohsint* challenge focuses on open-source intelligence (OSINT). The goal is 
 - Gained appreciation for privacy awareness and data minimization in online presence.
 
 ---
-
-> 💡 Both challenges deepened my appreciation for cybersecurity, emphasizing the value of curiosity, persistence, and ethical hacking in digital defense.
